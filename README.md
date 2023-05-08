@@ -1,2 +1,3 @@
-# gpu-particle-system
-GPU-based Particle System by Computer Shader on OpenGL
+## Graphics Programming Exercises
+
+This repository contains the exercises of the Graphics Programming course from the IT University of Copenhagen. 

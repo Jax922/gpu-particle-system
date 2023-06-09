@@ -26,11 +26,11 @@ You can build this project using `cmake`. Follow the steps below:
 4. Execute the command `cmake ..`.
 
 ## REFERENCE
-[1] Euler method. https://en.wikipedia.org/wiki/Euler_method.2021.
-[2] Joey de Vries. LearnOpenGL: Instancing. https://learnopengl.com/Advanced-OpenGL/Instancing
-[3] Khronos Group. OpenGL Wiki: Compute Shader. https://www.khronos.org/opengl/wiki/Compute_Shader
-[4] Khronos Group. OpenGL Wiki: Shader Storage Buffer Object. https://www.khronos.org/opengl/wiki/Shader_Storage_Buffer_Object
-[5] Matthias Müller, David Charypar, and Markus Gross. “Particle-Based Fluid Simulation for Interactive Applications”. In: Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation. SCA ’03. San Diego, California: Eurographics Association, 2003, pp. 154–159.ISBN:1581136595.
-[6] Andrew Witkin and David Baraff. “Physically Based Modeling – Rigid Body Dynamics”. In: SIGGRAPH Courses. 2001.
-[7] Yang Zeus. “Fire simulation by particles”. In: (2018).
+* Euler method. https://en.wikipedia.org/wiki/Euler_method.2021.
+* Joey de Vries. LearnOpenGL: Instancing. https://learnopengl.com/Advanced-OpenGL/Instancing
+* Khronos Group. OpenGL Wiki: Compute Shader. https://www.khronos.org/opengl/wiki/Compute_Shader
+* Khronos Group. OpenGL Wiki: Shader Storage Buffer Object. https://www.khronos.org/opengl/wiki/Shader_Storage_Buffer_Object
+* Matthias Müller, David Charypar, and Markus Gross. “Particle-Based Fluid Simulation for Interactive Applications”. In: Proceedings of the 2003 ACM SIGGRAPH/Eurographics Symposium on Computer Animation. SCA ’03. San Diego, California: Eurographics Association, 2003, pp. 154–159.ISBN:1581136595.
+* Andrew Witkin and David Baraff. “Physically Based Modeling – Rigid Body Dynamics”. In: SIGGRAPH Courses. 2001.
+* Yang Zeus. “Fire simulation by particles”. In: (2018).
 

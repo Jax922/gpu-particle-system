@@ -1,6 +1,5 @@
 ## Introduction
-Here is my final project source code.
-I have developed a GPU-based particle system, which enables the simulation of fluid,
+This is a GPU-based particle system, which enables the simulation of fluid,
 fire, and collision phenomena. The fluid simulation
 employs the Smoothed Particle Hydrodynamics
 (SPH) method [7], while the rendering of a 3D
